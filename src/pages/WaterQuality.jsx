@@ -4,10 +4,10 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContai
 const data = [
     { name: 'Mon', tds: 40 },
     { name: 'Tue', tds: 42 },
-    { name: 'Wed', tds: 46 },
-    { name: 'Thu', tds: 85 },
+    { name: 'Wed', tds: 45 },
+    { name: 'Thu', tds: 41 },
     { name: 'Fri', tds: 43 },
-    { name: 'Sat', tds: 41 },
+    { name: 'Sat', tds: 44 },
     { name: 'Sun', tds: 42 },
 ];
 
